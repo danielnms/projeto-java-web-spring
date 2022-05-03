@@ -1,0 +1,23 @@
+[33mcommit b4ff3c04b50dc4f48f7d7df9936ad6d1d8b1b3cf[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Daniel Neves <59482133+danielnms@users.noreply.github.com>
+Date:   Tue May 3 17:56:31 2022 -0300
+
+    Delete README.md
+
+[33mcommit 6a55edf48e18b21b94b7b9f8d3122cf94f7436ca[m
+Author: Daniel Neves <59482133+danielnms@users.noreply.github.com>
+Date:   Tue May 3 16:17:11 2022 -0300
+
+    Create README.md
+
+[33mcommit a792e4d8621c8386f167036fa58fb29db67199f0[m
+Author: Daniel Neves <danielneves1@hotmail.com>
+Date:   Tue May 3 14:42:11 2022 -0300
+
+    Criando as Entidades Department e User
+
+[33mcommit a253b7a3ba3c59e9e814f4866e060ac88a1d3960[m
+Author: Daniel Neves <danielneves1@hotmail.com>
+Date:   Mon May 2 18:54:52 2022 -0300
+
+    Projeto Criado
